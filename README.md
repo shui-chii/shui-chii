@@ -60,7 +60,7 @@
       <details>
 <summary><img src="https://i.postimg.cc/HnS5cJP6/tinyshuichi.png" width=20>‎ </summary>
 
-  [Tes](https://github.com/piehiker) , [Tem](https://github.com/yvoisen) , [Shu](https://github.com/mrdetectivve) , [Vivian](https://github.com/KANDYGUTZ) , [Adrian](https://github.com/coIdified) 
+  [Tes](https://github.com/piehiker) , [Tem](https://github.com/yvoisen) , [Shu](https://github.com/mrdetectivve) , [Vivian](https://github.com/KANDYGUTZ) , [Adrian](https://github.com/coIdified) , [Dani](https://github.com/tragicburn)
 
 more to be added periodically 
 </details>
