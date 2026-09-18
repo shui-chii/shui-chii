@@ -60,8 +60,9 @@
       <details>
 <summary><img src="https://i.postimg.cc/HnS5cJP6/tinyshuichi.png" width=20>‎ </summary>
 
-  under works.. they will pop up here trust
+  [Tes](https://github.com/piehiker) , [Tem](https://github.com/yvoisen) , [Shu](https://github.com/mrdetectivve) , [Vivian](https://github.com/KANDYGUTZ) [Adrian](https://github.com/coIdified) 
 
+more to be added periodically 
 </details>
     <br>
 <img src="https://i.postimg.cc/s2DrKvn6/bottomfriendbanner.png" width=150>‎ 
